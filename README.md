@@ -3,7 +3,16 @@
 ## Installation
 
 ```
-npm i pkg-up-cb -S
+npm i pkg-up-cb
+```
+
+## Usage
+
+``` javascript
+const pkgUp = require('pkg-up-cb');
+
+pkgUp((err, pkgPath) => {
+});
 ```
 
 ## pkgUp([cwd], callback)

@@ -3,7 +3,8 @@
 ## Installation
 
 ```
-npm i pkg-up-cb -S
+npm i pkg-up-cb
+
 ```
 
 ## License
